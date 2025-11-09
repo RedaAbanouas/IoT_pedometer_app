@@ -1,0 +1,1 @@
+# Test for the MQTT Connection with the ESP32S3 + MPU6050 Driver
